@@ -1,4 +1,4 @@
-# Hola, soy un apasionado de la Ciencia y el Análisis de Datos
+# Apasionado de la Ciencia y el Análisis de Datos
 
 Me especializo en transformar datos crudos en soluciones analíticas y herramientas interactivas que respaldan la toma de decisiones estratégicas. Cuento con una sólida formación técnica y metodológica orientada a la calidad del código, el rigor estadístico y el despliegue de aplicaciones en entornos de producción.
 
