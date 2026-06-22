@@ -33,7 +33,7 @@ A continuación, puedes explorar algunos de los proyectos donde aplico metodolog
 
 ### Conéctate Conmigo
 
-* **LinkedIn:** [Tu Nombre Profesional](https://linkedin.com/in/angelmperalta)
+* **LinkedIn:** [Angel Miguel](https://linkedin.com/in/angelmperalta)
 * **Correo Electrónico:** [angelmperalta123@email.com](mailto:angelmperalta123@email.com)
 
 ¡Siempre abierto a conectar con equipos de tecnología, resolver retos complejos de datos y colaborar en proyectos de alto impacto!
